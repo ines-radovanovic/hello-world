@@ -1,4 +1,2 @@
 # hello-world
-My first repository
-
-Writting a bit about myself
+Sharing with collaborator jc 15100, big forehead
